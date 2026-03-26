@@ -32,7 +32,7 @@ Distilled reference guide based on Martin Kleppmann's *Designing Data-Intensive 
 ## Installation
 
 ```bash
-npx skills luoling8192/ai-coding-principles
+npx skills add luoling8192/ai-coding-principles
 ```
 
 ## License

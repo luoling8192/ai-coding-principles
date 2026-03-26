@@ -32,7 +32,7 @@
 ## 安装
 
 ```bash
-npx skills luoling8192/ai-coding-principles
+npx skills add luoling8192/ai-coding-principles
 ```
 
 ## 许可证
